@@ -1,0 +1,26 @@
+{"level":"info","message":"User registered successfully - (::1)","service":"homebanking_backend-service","timestamp":"2023-09-30T15:25:16.091Z"}
+{"level":"info","message":"Server started on: http://localhost:8000","service":"homebanking_backend-service","timestamp":"2023-09-30T15:25:18.386Z"}
+{"level":"info","message":"User logged in successfully - (::1)","service":"homebanking_backend-service","timestamp":"2023-09-30T15:25:22.875Z"}
+{"level":"info","message":"User funds successfully obtained - (::1)","service":"homebanking_backend-service","timestamp":"2023-09-30T15:25:31.688Z"}
+{"level":"info","message":"Funds successfully added to user - (::1)","service":"homebanking_backend-service","timestamp":"2023-09-30T15:25:42.587Z"}
+{"level":"info","message":"Server started on: http://localhost:8000","service":"homebanking_backend-service","timestamp":"2023-09-30T15:25:45.065Z"}
+{"level":"info","message":"User funds successfully obtained - (::1)","service":"homebanking_backend-service","timestamp":"2023-09-30T15:25:46.060Z"}
+{"level":"info","message":"User successfully withdrawn funds - (::1)","service":"homebanking_backend-service","timestamp":"2023-09-30T15:25:52.209Z"}
+{"level":"info","message":"Server started on: http://localhost:8000","service":"homebanking_backend-service","timestamp":"2023-09-30T15:25:54.718Z"}
+{"level":"info","message":"User funds successfully obtained - (::1)","service":"homebanking_backend-service","timestamp":"2023-09-30T15:25:57.588Z"}
+{"level":"info","message":"Server started on: http://localhost:8000","service":"homebanking_backend-service","timestamp":"2023-09-30T15:29:02.605Z"}
+{"level":"info","message":"Server started on: http://localhost:8000","service":"homebanking_backend-service","timestamp":"2023-09-30T15:29:31.066Z"}
+{"level":"info","message":"Server started on: http://localhost:8000","service":"homebanking_backend-service","timestamp":"2023-09-30T15:29:54.491Z"}
+{"level":"info","message":"Server started on: http://localhost:8000","service":"homebanking_backend-service","timestamp":"2023-09-30T15:38:38.364Z"}
+{"level":"info","message":"Server started on: http://localhost:8000","service":"homebanking_backend-service","timestamp":"2023-10-02T17:16:28.372Z"}
+{"level":"info","message":"User logged in successfully - (::1)","service":"homebanking_backend-service","timestamp":"2023-10-02T17:16:38.885Z"}
+{"level":"info","message":"User funds movements successfully obtained - (::1)","service":"homebanking_backend-service","timestamp":"2023-10-02T17:16:58.827Z"}
+{"level":"info","message":"User funds successfully obtained - (::1)","service":"homebanking_backend-service","timestamp":"2023-10-02T17:17:18.063Z"}
+{"level":"info","message":"Funds successfully added to user - (::1)","service":"homebanking_backend-service","timestamp":"2023-10-02T17:17:50.076Z"}
+{"level":"info","message":"Server started on: http://localhost:8000","service":"homebanking_backend-service","timestamp":"2023-10-02T17:17:52.064Z"}
+{"level":"info","message":"User funds successfully obtained - (::1)","service":"homebanking_backend-service","timestamp":"2023-10-02T17:17:57.932Z"}
+{"level":"info","message":"User funds movements successfully obtained - (::1)","service":"homebanking_backend-service","timestamp":"2023-10-02T17:18:03.154Z"}
+{"level":"info","message":"User successfully withdrawn funds - (::1)","service":"homebanking_backend-service","timestamp":"2023-10-02T17:18:27.582Z"}
+{"level":"info","message":"Server started on: http://localhost:8000","service":"homebanking_backend-service","timestamp":"2023-10-02T17:18:29.730Z"}
+{"level":"info","message":"User funds successfully obtained - (::1)","service":"homebanking_backend-service","timestamp":"2023-10-02T17:18:36.778Z"}
+{"level":"info","message":"User funds movements successfully obtained - (::1)","service":"homebanking_backend-service","timestamp":"2023-10-02T17:18:42.972Z"}

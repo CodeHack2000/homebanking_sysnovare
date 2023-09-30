@@ -1,0 +1,30 @@
+[
+  {
+    "email": "tester@gmail.com",
+    "amount": 5,
+    "balance": 20,
+    "newBalance": 15,
+    "date": "2/10/2023 - 17:54:15"
+  },
+  {
+    "email": "tester@gmail.com",
+    "amount": 10,
+    "balance": 15,
+    "newBalance": 25,
+    "date": "2/10/2023 - 17:54:27"
+  },
+  {
+    "email": "tester2@gmail.com",
+    "amount": 5,
+    "balance": 10,
+    "newBalance": 15,
+    "date": "2/10/2023 - 18:17:50"
+  },
+  {
+    "email": "tester2@gmail.com",
+    "amount": 10,
+    "balance": 15,
+    "newBalance": 5,
+    "date": "2/10/2023 - 18:18:27"
+  }
+]
