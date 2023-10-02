@@ -1,5 +1,5 @@
 const AuthController = require("../controllers/auth_controller");
-const {authSchema} = require("../utils/joiValidationSchemas");
+const { authSchema } = require("../utils/joiValidationSchemas");
 
 module.exports = [
     {

@@ -12,7 +12,15 @@ const logger = require("./logger");
 const init = async () => {
     const server = Hapi.server({
         host: 'localhost',
-        port: 8000
+        port: 8000,
+        "routes": {
+            "cors": {
+                "origin": ["http://localhost:4200"],
+                "headers": ["Accept", "Content-Type", "Authorization"],
+                "additionalHeaders": ["X-Requested-With"],
+                "credentials": true
+            }
+        }
     });
 
     // Register the geoLocatePlugin plugin for geolocation
