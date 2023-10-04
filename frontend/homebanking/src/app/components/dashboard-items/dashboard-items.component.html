@@ -1,0 +1,75 @@
+<div class="grid-container">
+  <h1 class="mat-h1">Dashboard</h1>
+  <mat-grid-list cols="3" rowHeight="300px">
+    <mat-grid-tile [colspan]="colsSpanNumber" [rowspan]="1">
+      <mat-card class="dashboard-card">
+        <mat-card-header>
+          <mat-card-title>
+            Account Balance
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="dashboard-card-content w-full">
+          <div class="flex justify-center my-4">
+            <app-credit-card [accountData]="userAccountData"></app-credit-card>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </mat-grid-tile>
+    <mat-grid-tile [colspan]="colsSpanNumber" [rowspan]="1">
+      <mat-card class="dashboard-card">
+        <mat-card-header>
+          <mat-card-title>
+            Expense From The Last 30 Days
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="dashboard-card-content w-full h-full">
+          <div class="flex justify-center items-center my-16 text-6xl" [ngStyle]="{'color': '#673ab7'}">
+            {{userExpenseSummary}}
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </mat-grid-tile>
+    <mat-grid-tile [colspan]="colsSpanNumber" [rowspan]="2">
+      <mat-card class="dashboard-card">
+        <mat-card-header>
+          <mat-card-title>
+            Last Movements
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="dashboard-card-content">
+            <div class="flex justify-center">
+              <app-last-movements [userMovements]="userLastMovements"></app-last-movements>
+            </div>
+        </mat-card-content>
+      </mat-card>
+    </mat-grid-tile>
+    <mat-grid-tile [colspan]="colsSpanNumber" [rowspan]="1">
+      <mat-card class="dashboard-card">
+        <mat-card-header>
+          <mat-card-title>
+            Average Balance
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="dashboard-card-content">
+            <div class="flex justify-center items-center my-16 text-6xl" [ngStyle]="{'color': '#673ab7'}">
+              {{userAverageBalance}}
+            </div>
+        </mat-card-content>
+      </mat-card>
+    </mat-grid-tile>
+    <mat-grid-tile [colspan]="colsSpanNumber" [rowspan]="1">
+      <mat-card class="dashboard-card">
+        <mat-card-header>
+          <mat-card-title>
+            Income From The Last 30 Days
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="dashboard-card-content">
+            <div class="flex justify-center items-center my-16 text-6xl" [ngStyle]="{'color': '#673ab7'}">
+              {{userIncomeSummary}}
+            </div>
+        </mat-card-content>
+      </mat-card>
+    </mat-grid-tile>
+  </mat-grid-list>
+</div>

@@ -1,0 +1,16 @@
+<form class="space-y-4 flex justify-center" (ngSubmit)="onSubmit()">
+    <div class="flex flex-col w-2/3">
+        <mat-form-field color="primary" floatLabel="always">
+            <mat-label for="email">Email</mat-label>
+            <input name="email" type="email" [(ngModel)]="email" matInput placeholder="example@email.com" >
+            <mat-icon matSuffix>mail_outline</mat-icon>
+        </mat-form-field>
+        <mat-form-field color="primary" floatLabel="always">
+            <mat-label for="password">Password</mat-label>
+            <input name="password" [(ngModel)]="password" type="password" matInput placeholder="123456" >
+            <mat-icon matSuffix>password</mat-icon>
+            <mat-hint align="end">Min 6 characters</mat-hint>
+        </mat-form-field>
+        <button mat-flat-button color="primary" type="submit" class="mt-4">{{buttonText}}</button>
+    </div>
+</form>

@@ -1,0 +1,32 @@
+<div class="w-80 h-44 rounded-2xl opacity-90 relative flex flex-col select-none" style="background-color: #673ab7;">
+    <div class="w-full h-1/2 relative">
+        <div class="text-white flex flex-col items-start ml-6 pt-6">
+            <span class="text-xs tracking-wider">Card Number</span>
+            <span class="tracking-wide">* * * * * * * * * * * * 1234</span>
+        </div>
+        <div class="absolute right-12 top-7">
+            <div class="w-8 h-8 bg-red-500 rounded-full"></div>
+            <div class="w-8 h-8 bg-yellow-500 rounded-full absolute top-0 -right-5 -z-10"></div>
+        </div>
+    </div>
+    <div class="w-full h-1/2 relative">
+        <div class="absolute bottom-5">
+            <div class="text-white flex flex-col items-start ml-6 pt-6">
+                <span class="text-xs tracking-wider">Current Balance</span>
+                <span class="font-semibold text-lg tracking-widest">{{balance}}€</span>
+            </div>
+        </div>
+        <div class="absolute bottom-6 left-36">
+            <div class="text-white flex flex-col items-start ml-6 pt-6">
+                <span class="text-xs tracking-wider mb-1">Expiry Date</span>
+                <span class="tracking-widest">03/26</span>
+            </div>
+        </div>
+        <div class="absolute bottom-6 left-60">
+            <div class="text-white flex flex-col items-start ml-6 pt-6">
+                <span class="text-xs tracking-wider mb-1">CVV</span>
+                <span class="tracking-wide">* * *</span>
+            </div>
+        </div>
+    </div>
+</div>

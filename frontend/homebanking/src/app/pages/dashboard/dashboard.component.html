@@ -1,0 +1,5 @@
+<div class="w-full h-full flex">
+    <app-material-sidenav class="w-full h-full">
+        <app-dashboard-items *ngIf="userAccountData && userLastMovements && userMovements" [userMovements]="userMovements" [userAccountData]="userAccountData" [userLastMovements]="userLastMovements"></app-dashboard-items>
+    </app-material-sidenav>
+</div>

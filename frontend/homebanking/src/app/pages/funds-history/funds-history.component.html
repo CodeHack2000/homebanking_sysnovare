@@ -1,0 +1,7 @@
+<div class="w-full h-full flex">
+    <app-material-sidenav class="w-full h-full">
+        <div class="flex justify-center mt-16 mb-10">
+            <app-funds-history-table *ngIf="formattedUserMovements" [formattedFundsMovements]="formattedUserMovements"></app-funds-history-table>
+        </div>
+    </app-material-sidenav>
+</div>

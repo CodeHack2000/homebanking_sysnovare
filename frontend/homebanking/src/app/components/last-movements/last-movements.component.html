@@ -1,0 +1,14 @@
+<mat-list class="w-80">
+    <ng-container *ngFor="let movement of userLastMovements; let last = last" >
+        <div class="h-16">
+            <mat-list-item>
+                <div class="absolute top-0">
+                    <div matListItemTitle>{{movement.title}}</div>
+                    <div matListItemLine>{{movement.date}}</div>
+                </div>
+                <div class="absolute top-4 right-4 text-lg" ngClass="{{movement.color}}">{{movement.amount}}</div>
+            </mat-list-item>
+        </div>
+        <mat-divider *ngIf="!last"></mat-divider>
+    </ng-container>
+</mat-list>

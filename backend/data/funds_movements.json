@@ -75,5 +75,187 @@
     "balance": 29.74,
     "newBalance": 36.74,
     "date": "4/10/2023 - 1:9:54"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 10000,
+    "balance": 36.74,
+    "newBalance": 10036.74,
+    "date": "4/10/2023 - 1:17:0"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 45,
+    "balance": 10036.74,
+    "newBalance": 9991.74,
+    "date": "4/10/2023 - 2:16:30"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 1.74,
+    "balance": 9991.74,
+    "newBalance": 9990,
+    "date": "4/10/2023 - 2:41:46"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 10,
+    "balance": 9990,
+    "newBalance": 10000,
+    "date": "4/10/2023 - 2:46:32"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 5,
+    "balance": 10000,
+    "newBalance": 10005,
+    "date": "4/10/2023 - 2:47:39"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 5,
+    "balance": 10005,
+    "newBalance": 10000,
+    "date": "4/10/2023 - 2:47:44"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 2,
+    "balance": 10000,
+    "newBalance": 9998,
+    "date": "4/10/2023 - 2:47:58"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 2,
+    "balance": 9998,
+    "newBalance": 10000,
+    "date": "4/10/2023 - 2:59:50"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 2,
+    "balance": 10000,
+    "newBalance": 10002,
+    "date": "4/10/2023 - 3:7:20"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 2,
+    "balance": 10002,
+    "newBalance": 10000,
+    "date": "4/10/2023 - 3:7:30"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 2,
+    "balance": 10000,
+    "newBalance": 9998,
+    "date": "4/10/2023 - 3:7:43"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 2,
+    "balance": 9998,
+    "newBalance": 10000,
+    "date": "4/10/2023 - 3:7:50"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 2,
+    "balance": 10000,
+    "newBalance": 10002,
+    "date": "4/10/2023 - 3:8:57"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 3,
+    "balance": 10002,
+    "newBalance": 10005,
+    "date": "4/10/2023 - 3:9:3"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 3,
+    "balance": 10005,
+    "newBalance": 10002,
+    "date": "4/10/2023 - 3:10:27"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 2,
+    "balance": 10002,
+    "newBalance": 10000,
+    "date": "4/10/2023 - 3:10:30"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 3,
+    "balance": 10000,
+    "newBalance": 10003,
+    "date": "4/10/2023 - 3:10:39"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 3,
+    "balance": 10003,
+    "newBalance": 10006,
+    "date": "4/10/2023 - 3:10:43"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 4,
+    "balance": 10006,
+    "newBalance": 10010,
+    "date": "4/10/2023 - 3:10:48"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 2,
+    "balance": 10010,
+    "newBalance": 10008,
+    "date": "4/10/2023 - 3:11:17"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 2,
+    "balance": 10008,
+    "newBalance": 10006,
+    "date": "4/10/2023 - 3:11:21"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 4,
+    "balance": 10006,
+    "newBalance": 10002,
+    "date": "4/10/2023 - 3:13:2"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 3,
+    "balance": 10002,
+    "newBalance": 10005,
+    "date": "4/10/2023 - 3:13:5"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 5,
+    "balance": 10005,
+    "newBalance": 10000,
+    "date": "4/10/2023 - 17:45:35"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 7.5,
+    "balance": 10000,
+    "newBalance": 10007.5,
+    "date": "4/10/2023 - 17:45:47"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 5,
+    "balance": 10007.5,
+    "newBalance": 10002.5,
+    "date": "4/10/2023 - 18:20:14"
   }
 ]

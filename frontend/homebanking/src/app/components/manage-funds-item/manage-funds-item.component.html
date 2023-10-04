@@ -1,0 +1,16 @@
+<mat-card class="w-72">
+    <mat-card-header>
+        <mat-card-title>Manage Funds</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        <mat-form-field class="mt-6">
+            <mat-label for="amount">Amount</mat-label>
+            <input color="primary" type="number" [(ngModel)]="amount" name="amount" matInput placeholder="10">
+            <mat-icon class="mat-18" matSuffix>euro_symbol</mat-icon>
+        </mat-form-field>
+    </mat-card-content>
+    <mat-card-actions align="start" class="flex justify-center">
+        <button mat-button color="warn" (click)="handleWithdraw()">Withdraw</button>
+        <button mat-button color="primary" (click)="handleAdd()">Add</button>
+    </mat-card-actions>
+</mat-card>
