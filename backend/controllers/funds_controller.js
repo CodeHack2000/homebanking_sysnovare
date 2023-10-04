@@ -48,7 +48,7 @@ const addFunds = async (req, h) => {
             return h.response({ message: 'Enter a valid value' }).code(400);
         }
 
-        const newBalance = userFunds.funds + amount;
+        const newBalance = parseFloat((userFunds.funds + amount).toFixed(2));
 
         const current_date = getCurrentDate();
         const userFundsMovementAction = {
@@ -94,7 +94,7 @@ const withdrawFunds = async (req, h) => {
             return h.response({ message: 'Enter a valid value' }).code(400);
         }
 
-        const newBalance = userFunds.funds - amount;
+        const newBalance = parseFloat((userFunds.funds - amount).toFixed(2));
 
         const current_date = getCurrentDate();
         const userFundsMovementAction = {

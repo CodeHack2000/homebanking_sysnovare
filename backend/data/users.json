@@ -1,30 +1,6 @@
 [
   {
-    "email": "tester@gmail.com",
-    "hashedPassword": "$2b$10$IZb8d8tTJ6eYGOLBHBJAou0bMx0r3qv9YRlZSGgSr/vWcigRNYVe2"
-  },
-  {
-    "email": "tester2@gmail.com",
-    "hashedPassword": "$2b$10$hGEoVVT48QFuzta9smVy6.J3QNqMf5Vo89CRmYpUZhJ3kc.AGnA56"
-  },
-  {
-    "email": "tester3@gmail.com",
-    "hashedPassword": "$2b$10$vA.Lko7W2cVErxYzv31RdeurIUFI4hJXDtav/BgEyU0hzzOR/KM/e"
-  },
-  {
-    "email": "tester4@gmail.com",
-    "hashedPassword": "$2b$10$J40yqbyDw56bWs0gOmOqgOWpf60KIN4Nn3j0/zoI8bCms1CLM0qd6"
-  },
-  {
-    "email": "tester7@gmail.com",
-    "hashedPassword": "$2b$10$DzzwUFMGESwjPiuCoo926.eEYrXrJbjfDF7CtGe2RB.wiaMEhKnLC"
-  },
-  {
-    "email": "tester10@gmail.com",
-    "hashedPassword": "$2b$10$mg6ojiagIeEGEHc.KfoLf.BLgYbbWjVlXDFDVgveT9KbO12gHmb3O"
-  },
-  {
-    "email": "tester8@gmail.com",
-    "hashedPassword": "$2b$10$Hxll6GgRqGF5z5nWCA/WtemZ7VLzjlXURn8gnmg4hmqhxN8fVP/Iu"
+    "email": "admin@gmail.com",
+    "hashedPassword": "$2b$10$5QYzjU6SXc23hsSpktDWoe2qJfkwkhxndhuFFQW0v57dxd0Bxuwjq"
   }
 ]

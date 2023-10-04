@@ -1,30 +1,79 @@
 [
   {
-    "email": "tester@gmail.com",
+    "email": "admin@gmail.com",
+    "amount": 50,
+    "balance": 0,
+    "newBalance": 50,
+    "date": "4/10/2023 - 1:9:18"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 8.23,
+    "balance": 50,
+    "newBalance": 41.77,
+    "date": "4/10/2023 - 1:9:25"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 8.23,
+    "balance": 41.77,
+    "newBalance": 33.54,
+    "date": "4/10/2023 - 1:9:27"
+  },
+  {
+    "email": "admin@gmail.com",
     "amount": 5,
-    "balance": 20,
-    "newBalance": 15,
-    "date": "2/10/2023 - 17:54:15"
+    "balance": 33.54,
+    "newBalance": 28.54,
+    "date": "4/10/2023 - 1:9:31"
   },
   {
-    "email": "tester@gmail.com",
-    "amount": 10,
-    "balance": 15,
-    "newBalance": 25,
-    "date": "2/10/2023 - 17:54:27"
+    "email": "admin@gmail.com",
+    "amount": 2.4,
+    "balance": 28.54,
+    "newBalance": 26.14,
+    "date": "4/10/2023 - 1:9:37"
   },
   {
-    "email": "tester2@gmail.com",
-    "amount": 5,
-    "balance": 10,
-    "newBalance": 15,
-    "date": "2/10/2023 - 18:17:50"
+    "email": "admin@gmail.com",
+    "amount": 2.4,
+    "balance": 26.14,
+    "newBalance": 23.74,
+    "date": "4/10/2023 - 1:9:39"
   },
   {
-    "email": "tester2@gmail.com",
-    "amount": 10,
-    "balance": 15,
-    "newBalance": 5,
-    "date": "2/10/2023 - 18:18:27"
+    "email": "admin@gmail.com",
+    "amount": 2.4,
+    "balance": 23.74,
+    "newBalance": 21.34,
+    "date": "4/10/2023 - 1:9:41"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 2.4,
+    "balance": 21.34,
+    "newBalance": 18.94,
+    "date": "4/10/2023 - 1:9:43"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 5.4,
+    "balance": 18.94,
+    "newBalance": 24.34,
+    "date": "4/10/2023 - 1:9:48"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 5.4,
+    "balance": 24.34,
+    "newBalance": 29.74,
+    "date": "4/10/2023 - 1:9:49"
+  },
+  {
+    "email": "admin@gmail.com",
+    "amount": 7,
+    "balance": 29.74,
+    "newBalance": 36.74,
+    "date": "4/10/2023 - 1:9:54"
   }
 ]
